@@ -68,41 +68,16 @@ NOTE: Tools and technologies I am learning or using in practical projects.
 ```bash
 ┌──(hafsa㉿noirbyte)-[~/projects]
 └─$ ./project-index --show
-```
 
-**[CyberForge Labs](https://github.com/Hafsa-Khan01/CyberForge-Labs)**
+[PUBLIC]
+CyberForge Labs
 
-```text
-PUBLIC REPOSITORY
-Cybersecurity labs, practical exploration and research notes.
-```
+[PRIVATE]
+NexCYR
+AiHirSaq
+SCATTER AI
 
-**NexCYR — Private development**
-
-```text
-UNIFIED SECURITY PLATFORM
-Cybersecurity assessment and purple-team workflows
-built around authorized testing and security visibility.
-```
-
-**AiHirSaq — Private development**
-
-```text
-AI-AGENT SECURITY GOVERNANCE
-Monitoring risky actions and preserving trustworthy
-event evidence and integrity.
-```
-
-**SCATTER AI — Private development**
-
-```text
-DEFENSIVE SECURITY PROJECT
-Exploring local PowerShell telemetry and detection
-of ransomware-related activity.
-```
-
-```text
-[INFO] Private project source code is not publicly available.
+[ACCESS] Private repositories remain private.
 ```
 
 ### `04 // RESEARCH.DIRECTION`
