@@ -70,7 +70,7 @@ NOTE: Tools and technologies I am learning or using in practical projects.
 └─$ ./project-index --show
 
 [PUBLIC]
-CyberForge Labs
+CyberForge Labs  ->  OPEN ACCESS
 
 [RESTRICTED // PRIVATE REPOSITORIES]
 
@@ -85,6 +85,16 @@ SCATTER AI
 
 [SECURITY NOTICE] Source code and project details are intentionally undisclosed.
 ```
+
+#### `PUBLIC // CYBERFORGE LABS`
+
+<div align="center">
+
+[![CYBERFORGE LABS — EXPLORE PUBLIC REPOSITORY](https://img.shields.io/badge/CYBERFORGE_LABS-EXPLORE_PUBLIC_REPOSITORY-24152f?style=for-the-badge&logo=github&logoColor=f0b6ff&labelColor=17102b)](https://github.com/Hafsa-Khan01/CyberForge-Labs)
+
+<sub>OPEN SOURCE // PUBLIC ACCESS</sub>
+
+</div>
 
 ### `04 // RESEARCH.DIRECTION`
 
