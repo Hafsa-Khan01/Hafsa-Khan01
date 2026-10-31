@@ -150,12 +150,12 @@ Evidence first. Assumptions last.
 
 ```bash
 ┌──(hafsa㉿noirbyte)-[~]
-└─$ ./principles --show
+└─$ tail -n 4 ~/field-notes.log
 
-01  QUESTION EVERYTHING
-02  VERIFY WITH EVIDENCE
-03  BUILD WITH PURPOSE
-04  DEFEND WITH INTEGRITY
+[01] Question assumptions.
+[02] Follow the evidence.
+[03] Understand before exploiting.
+[04] Build to make systems safer.
 
 "Stay curious. Verify deeply. Build responsibly."
 ```
