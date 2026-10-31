@@ -150,14 +150,14 @@ Evidence first. Assumptions last.
 
 ```bash
 ┌──(hafsa㉿noirbyte)-[~]
-└─$ ./keep_building.sh --curiosity --precision --purpose
+└─$ ./principles --show
 
-[+] Curiosity        : ACTIVE
-[+] Critical Thinking: ENABLED
-[+] Security Mindset : ALWAYS_ON
-[+] Mission          : LEARN -> EXPLORE -> SECURE
+01  QUESTION EVERYTHING
+02  VERIFY WITH EVIDENCE
+03  BUILD WITH PURPOSE
+04  DEFEND WITH INTEGRITY
 
-"Think beyond the code. See beyond the surface. Secure what matters."
+"Stay curious. Verify deeply. Build responsibly."
 ```
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
