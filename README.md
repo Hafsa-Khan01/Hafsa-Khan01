@@ -2,41 +2,43 @@
 
 <img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/galaxy-rose.svg" alt="Galaxy Rose — Hafsa Khan" width="100%"/>
 
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Hafsa--Khan01-17102b?style=for-the-badge&logo=github&logoColor=d8a7ff)](https://github.com/Hafsa-Khan01)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-f15bb5?style=for-the-badge)](https://github.com/Hafsa-Khan01)
 [![Research](https://img.shields.io/badge/Interest-Security%20Research-9d8df1?style=for-the-badge)](https://github.com/Hafsa-Khan01)
 
 </div>
 
----
-
-## `01 / IDENTITY.LOG`
-
-Cybersecurity student and hands-on security builder interested in understanding how systems fail, how threats behave, and how practical defensive tools can make systems safer.
-
-I enjoy learning by investigating, documenting, experimenting in authorized environments, and building security-focused projects.
-
 ```bash
-┌──(hafsa㉿cyberspace)-[~]
-└─$ cat current-focus.txt
+┌──(hafsa㉿galaxy-rose)-[~]
+└─$ whoami
+hafsa-khan
 
-  Network Security       | Service fingerprinting
-  Security Operations    | Monitoring & investigations
-  Purple Teaming         | Detection-minded assessment
-  Security Tooling       | Python & automation
-  AI Security            | Agent governance & evidence integrity
+└─$ cat identity.log
+NAME       : HAFSA KHAN
+ROLE       : CYBERSECURITY STUDENT & SECURITY BUILDER
+INTERESTS  : RESEARCH / DIGITAL DEFENSE / SECURE SYSTEMS
+MINDSET    : LEARN -> INVESTIGATE -> BUILD -> IMPROVE
 ```
 
-## `02 / CURRENT.MISSION`
+> **Curiosity creates. Knowledge protects.**
 
-- Strengthening practical foundations in cybersecurity, networking, and Linux.
-- Exploring service identification, security monitoring, and investigation workflows.
-- Building and improving tools that support authorized security assessment.
-- Documenting research with a focus on evidence, accuracy, and reproducibility.
+---
 
-## `03 / TOOLKIT`
+### `01 // CURRENT.MISSION`
+
+```console
+[MISSION LOADED]
+
+[+] Strengthening cybersecurity, networking and Linux foundations
+[+] Exploring service fingerprinting and security monitoring
+[+] Building tools for authorized security assessment
+[+] Practicing investigation, documentation and evidence handling
+[+] Learning how AI systems can be governed and secured
+
+STATUS : IN PROGRESS
+```
+
+### `02 // TOOLKIT`
 
 <div align="center">
 
@@ -52,40 +54,85 @@ I enjoy learning by investigating, documenting, experimenting in authorized envi
 
 </div>
 
-*Tools and technologies I have been learning or using in practical projects; this is a working toolkit, not a claim of mastery.*
+```bash
+└─$ ls ./working-toolkit
+python/  linux/  powershell/  fastapi/  sqlite/
+wireshark/  nmap/  git/  github/
 
-## `04 / SELECTED.WORK`
+NOTE: Tools and technologies I am learning or using in practical projects.
+      This is a working toolkit, not a claim of mastery.
+```
 
-### [CyberForge Labs](https://github.com/Hafsa-Khan01/CyberForge-Labs)
-A public space for cybersecurity labs, practical exploration, and research notes.
+### `03 // SELECTED.WORK`
 
-### NexCYR — Private development
-A unified cybersecurity assessment and purple-team platform, developed around authorized workflows and security visibility.
+```bash
+┌──(hafsa㉿galaxy-rose)-[~/projects]
+└─$ ./project-index --show
+```
 
-### AiHirSaq — Private development
-An AI-agent security governance project focused on monitoring risky actions and preserving trustworthy event evidence.
+**[CyberForge Labs](https://github.com/Hafsa-Khan01/CyberForge-Labs)**
 
-### SCATTER AI — Private development
-A defensive project exploring local PowerShell telemetry and ransomware-related activity detection.
+```text
+PUBLIC REPOSITORY
+Cybersecurity labs, practical exploration and research notes.
+```
 
-<sub>Private projects are described at a high level; their source code is not publicly available.</sub>
+**NexCYR — Private development**
 
-## `05 / RESEARCH.DIRECTION`
+```text
+UNIFIED SECURITY PLATFORM
+Cybersecurity assessment and purple-team workflows
+built around authorized testing and security visibility.
+```
 
-- Network and service fingerprinting
-- SSH, PostgreSQL, and web-server identification
-- Security monitoring and incident investigation
-- Vulnerability assessment methodology
-- AI-agent security and event integrity
+**AiHirSaq — Private development**
 
-## `06 / CONNECT`
+```text
+AI-AGENT SECURITY GOVERNANCE
+Monitoring risky actions and preserving trustworthy
+event evidence and integrity.
+```
+
+**SCATTER AI — Private development**
+
+```text
+DEFENSIVE SECURITY PROJECT
+Exploring local PowerShell telemetry and detection
+of ransomware-related activity.
+```
+
+```text
+[INFO] Private project source code is not publicly available.
+```
+
+### `04 // RESEARCH.DIRECTION`
+
+```console
+$ cat research-queue.txt
+
+[01] Network & service fingerprinting
+[02] SSH, PostgreSQL & web-server identification
+[03] Security monitoring & incident investigation
+[04] Vulnerability assessment methodology
+[05] AI-agent security & event integrity
+
+$ echo "Evidence first. Assumptions last."
+Evidence first. Assumptions last.
+```
+
+### `05 // CONNECT`
 
 <div align="center">
 
-**Curious minds. Careful research. Better security.**
+```bash
+┌──(hafsa㉿galaxy-rose)-[~]
+└─$ git clone curiosity://knowledge/security
+Cloning into better-understanding...
+done.
+```
 
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-17102b?style=for-the-badge&logo=github&logoColor=d8a7ff)](https://github.com/Hafsa-Khan01?tab=repositories)
+[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-17102b?style=for-the-badge&logo=github&logoColor=d8a7ff)](https://github.com/Hafsa-Khan01?tab=repositories)
 
-<sub>Building knowledge one investigation at a time.</sub>
+<sub>Building knowledge, one investigation at a time.</sub>
 
 </div>
