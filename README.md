@@ -26,12 +26,6 @@ MINDSET    : LEARN -> INVESTIGATE -> BUILD -> IMPROVE
 <img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/nebula-divider.svg" alt="Cyan violet magenta nebula divider" width="100%"/>
 </div>
 
-
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/nebula-divider.svg" alt="Cyan violet magenta nebula divider" width="100%"/>
-</div>
-
 ### `01 // CURRENT.MISSION`
 
 ```console
@@ -110,8 +104,6 @@ SCATTER AI
 
 [SECURITY NOTICE] Source code and project details are intentionally undisclosed.
 ```
-
-#### `PUBLIC // CYBERFORGE LABS`
 
 <div align="center">
 
