@@ -23,7 +23,7 @@
 <g fill="#00bbf9"><circle cx="1320" cy="170" r="2.5"><animate attributeName="r" values="2;4;2" dur="5s" repeatCount="indefinite"/></circle><circle cx="390" cy="300" r="2"><animate attributeName="r" values="1.5;3;1.5" dur="4s" repeatCount="indefinite"/></circle></g>
 <path d="M0 442 C300 400 420 500 720 452 S1190 410 1600 462" fill="none" stroke="#d8a7ff" stroke-opacity=".12"/>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-<text x="104" y="112" fill="#d8a7ff" font-size="18" letter-spacing="4">DIGITAL FRONTIER // SECURITY RESEARCH</text>
+<text x="104" y="112" fill="#d8a7ff" font-size="18" letter-spacing="4">SECURITY MINDED // RESEARCH DRIVEN</text>
 <text x="100" y="250" fill="url(#letters)" font-size="76" font-weight="700" letter-spacing="2" clip-path="url(#nameReveal)">HAFSA KHAN</text><rect x="100" y="190" width="4" height="68" fill="#00bbf9"><animate attributeName="x" values="100;720;720;100" keyTimes="0;.42;.82;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.4;.42;.82;.84" dur="9s" repeatCount="indefinite"/></rect>
 <text x="106" y="302" fill="#eadcf7" font-size="23" letter-spacing="2">CYBERSECURITY · RESEARCH · DIGITAL DEFENSE</text>
 <text x="108" y="386" fill="#00bbf9" font-size="18">$ ./explore --research --build --secure</text>
