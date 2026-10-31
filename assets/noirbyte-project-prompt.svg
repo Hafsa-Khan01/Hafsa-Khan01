@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="42" viewBox="0 0 650 42">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="650" height="42" rx="8" fill="#100b20"/>
+<text x="14" y="27" fill="#a78bfa" font-family="Consolas,monospace" font-size="18">┌──(</text>
+<text x="68" y="27" fill="url(#g)" font-family="Consolas,monospace" font-size="18" font-weight="700">hafsa㉿noirbyte</text>
+<text x="222" y="27" fill="#a78bfa" font-family="Consolas,monospace" font-size="18">)-[</text>
+<text x="254" y="27" fill="#67e8f9" font-family="Consolas,monospace" font-size="18">~/projects</text>
+<text x="375" y="27" fill="#a78bfa" font-family="Consolas,monospace" font-size="18">]</text>
+</svg>
