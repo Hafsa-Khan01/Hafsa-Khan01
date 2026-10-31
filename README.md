@@ -56,14 +56,14 @@ STATUS : IN PROGRESS
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-100b20?style=flat-square&logo=python&logoColor=22d3ee)
-![Linux](https://img.shields.io/badge/Linux-1b1428?style=flat-square&logo=linux&logoColor=d8a7ff)
-![PowerShell](https://img.shields.io/badge/PowerShell-1b1428?style=flat-square&logo=powershell&logoColor=67e8f9)
-![FastAPI](https://img.shields.io/badge/FastAPI-1b1428?style=flat-square&logo=fastapi&logoColor=b8e0d2)
-![SQLite](https://img.shields.io/badge/SQLite-1b1428?style=flat-square&logo=sqlite&logoColor=9deaff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1b1428?style=flat-square&logo=wireshark&logoColor=d8a7ff)
-![Nmap](https://img.shields.io/badge/Nmap-1b1428?style=flat-square&logo=linux&logoColor=f0abfc)
-![Git](https://img.shields.io/badge/Git-1b1428?style=flat-square&logo=git&logoColor=f0a6ca)
-![GitHub](https://img.shields.io/badge/GitHub-1b1428?style=flat-square&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-100b20?style=flat-square&logo=linux&logoColor=c4b5fd)
+![PowerShell](https://img.shields.io/badge/PowerShell-100b20?style=flat-square&logo=powershell&logoColor=67e8f9)
+![FastAPI](https://img.shields.io/badge/FastAPI-100b20?style=flat-square&logo=fastapi&logoColor=b8e0d2)
+![SQLite](https://img.shields.io/badge/SQLite-100b20?style=flat-square&logo=sqlite&logoColor=67e8f9)
+![Wireshark](https://img.shields.io/badge/Wireshark-100b20?style=flat-square&logo=wireshark&logoColor=c4b5fd)
+![Nmap](https://img.shields.io/badge/Nmap-100b20?style=flat-square&logo=linux&logoColor=f0abfc)
+![Git](https://img.shields.io/badge/Git-100b20?style=flat-square&logo=git&logoColor=f0abfc)
+![GitHub](https://img.shields.io/badge/GitHub-100b20?style=flat-square&logo=github&logoColor=ffffff)
 
 </div>
 
