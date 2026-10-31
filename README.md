@@ -12,13 +12,9 @@
 ┌──(hafsa㉿noirbyte)-[~]
 └─$ whoami
 hafsa-khan
-```
 
-```bash
-$ whoami
-hafsa-khan
-
-$ cat identity.log
+┌──(hafsa㉿noirbyte)-[~]
+└─$ cat identity.log
 NAME       : HAFSA KHAN
 ROLE       : CYBERSECURITY STUDENT & SECURITY BUILDER
 INTERESTS  : RESEARCH / DIGITAL DEFENSE / SECURE SYSTEMS
@@ -33,7 +29,10 @@ MINDSET    : LEARN -> INVESTIGATE -> BUILD -> IMPROVE
 
 ### `01 // CURRENT.MISSION`
 
-```console
+```bash
+┌──(hafsa㉿noirbyte)-[~/mission]
+└─$ ./mission-status
+
 [MISSION LOADED]
 
 [+] Strengthening cybersecurity, networking and Linux foundations
@@ -67,12 +66,8 @@ STATUS : IN PROGRESS
 </div>
 
 ```bash
-┌──(hafsa㉿noirbyte)-[~]
+┌──(hafsa㉿noirbyte)-[~/toolkit]
 └─$ ls ./working-toolkit
-```
-
-```bash
-$ ls ./working-toolkit
 python/  linux/  powershell/  fastapi/  sqlite/
 wireshark/  nmap/  git/  github/
 
@@ -97,10 +92,6 @@ NOTE: Tools, domains and practical areas I am actively learning,
 ```bash
 ┌──(hafsa㉿noirbyte)-[~/projects]
 └─$ ./project-index --show
-```
-
-```bash
-$ ./project-index --show
 
 [PUBLIC]
 CyberForge Labs  ->  OPEN ACCESS
@@ -134,8 +125,9 @@ SCATTER AI
 
 ### `04 // RESEARCH.DIRECTION`
 
-```console
-$ cat research-queue.txt
+```bash
+┌──(hafsa㉿noirbyte)-[~/research]
+└─$ cat research-queue.txt
 
 [01] Network & service fingerprinting
 [02] SSH, PostgreSQL & web-server identification
