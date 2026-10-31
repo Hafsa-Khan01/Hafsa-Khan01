@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Hafsa--Khan01-17102b?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/Hafsa-Khan01)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-f15bb5?style=for-the-badge)](https://github.com/Hafsa-Khan01)
 [![Research](https://img.shields.io/badge/Interest-Security%20Research-a855f7?style=for-the-badge)](https://github.com/Hafsa-Khan01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-khan-63a4623b0/)
 
 </div>
 
