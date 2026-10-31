@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/galaxy-rose.svg" alt="Galaxy Rose — Hafsa Khan" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-17102b?style=flat-square&logo=github&logoColor=c4b5fd)](https://github.com/Hafsa-Khan01) [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-f15bb5?style=flat-square)](https://github.com/Hafsa-Khan01) [![Research](https://img.shields.io/badge/Research-a855f7?style=flat-square)](https://github.com/Hafsa-Khan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-khan-63a4623b0/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hf857707@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-17102b?style=flat-square&logo=github&logoColor=c4b5fd)](https://github.com/Hafsa-Khan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-khan-63a4623b0/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hf857707@gmail.com)
 
 </div>
 
