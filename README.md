@@ -8,12 +8,13 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
+
 ```bash
-┌──(hafsa㉿noirbyte)-[~]
-└─$ whoami
+$ whoami
 hafsa-khan
 
-└─$ cat identity.log
+$ cat identity.log
 NAME       : HAFSA KHAN
 ROLE       : CYBERSECURITY STUDENT & SECURITY BUILDER
 INTERESTS  : RESEARCH / DIGITAL DEFENSE / SECURE SYSTEMS
@@ -61,12 +62,14 @@ STATUS : IN PROGRESS
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
+
 ```bash
-└─$ ls ./working-toolkit
+$ ls ./working-toolkit
 python/  linux/  powershell/  fastapi/  sqlite/
 wireshark/  nmap/  git/  github/
 
-└─$ ls ./security-specialities
+$ ls ./security-specialities
 vapt-wapt/  soc-operations/  network-security/
 threat-intelligence/  digital-forensics/  incident-response/
 purple-teaming/  security-research/  service-fingerprinting/
@@ -84,9 +87,10 @@ NOTE: Tools, domains and practical areas I am actively learning,
 
 ### `03 // SELECTED.WORK`
 
+<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-project-prompt.svg" alt="NOIRBYTE projects terminal prompt" width="470"/>
+
 ```bash
-┌──(hafsa㉿noirbyte)-[~/projects]
-└─$ ./project-index --show
+$ ./project-index --show
 
 [PUBLIC]
 CyberForge Labs  ->  OPEN ACCESS
@@ -142,17 +146,13 @@ Evidence first. Assumptions last.
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
+
 ```bash
-┌──(hafsa㉿noirbyte)-[~]
-└─$ ./keep_building.sh --curiosity --precision --purpose
-
-[+] Curiosity        : ACTIVE
-[+] Critical Thinking: ENABLED
-[+] Security Mindset : ALWAYS_ON
-[+] Mission          : LEARN -> EXPLORE -> SECURE
-
-"Think beyond the code. See beyond the surface. Secure what matters."
+$ echo "Learn with curiosity. Investigate with evidence. Build for security."
 ```
+
+> **Learn with curiosity. Investigate with evidence. Build for security.**
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
 
