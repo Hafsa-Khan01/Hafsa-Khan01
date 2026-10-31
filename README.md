@@ -72,10 +72,16 @@ NOTE: Tools and technologies I am learning or using in practical projects.
 [PUBLIC]
 CyberForge Labs
 
-[PRIVATE]
+[PRIVATE DEVELOPMENT]
+
 NexCYR
+BUILT BEYOND THE ORDINARY // IN DEVELOPMENT
+
 AiHirSaq
+INTELLIGENCE WITH INTEGRITY // PRIVATE BUILD
+
 SCATTER AI
+ENGINEERED WITH PURPOSE // WORK IN PROGRESS
 
 [ACCESS] Private repositories remain private.
 ```
