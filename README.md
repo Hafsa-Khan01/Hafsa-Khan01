@@ -144,13 +144,13 @@ Evidence first. Assumptions last.
 
 ```bash
 ┌──(hafsa㉿noirbyte)-[~]
-└─$ git clone curiosity://knowledge/security
-Cloning into better-understanding...
-done.
+└─$ echo "Stay curious. Verify everything. Build with purpose."
+
+Stay curious. Verify everything. Build with purpose.
 ```
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
 
-<sub>Building knowledge, one investigation at a time.</sub>
+<sub>LEARN CONTINUOUSLY // INVESTIGATE RESPONSIBLY // BUILD SECURELY</sub>
 
 </div>
