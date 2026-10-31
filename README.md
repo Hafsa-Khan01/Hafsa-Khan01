@@ -144,9 +144,14 @@ Evidence first. Assumptions last.
 
 ```bash
 ┌──(hafsa㉿noirbyte)-[~]
-└─$ echo "Stay curious. Verify everything. Build with purpose."
+└─$ ./keep_building.sh --curiosity --precision --purpose
 
-Stay curious. Verify everything. Build with purpose.
+[+] Curiosity        : ACTIVE
+[+] Critical Thinking: ENABLED
+[+] Security Mindset : ALWAYS_ON
+[+] Mission          : LEARN -> EXPLORE -> SECURE
+
+"Think beyond the code. See beyond the surface. Secure what matters."
 ```
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
