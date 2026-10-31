@@ -6,6 +6,7 @@
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-f15bb5?style=for-the-badge)](https://github.com/Hafsa-Khan01)
 [![Research](https://img.shields.io/badge/Interest-Security%20Research-a855f7?style=for-the-badge)](https://github.com/Hafsa-Khan01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-khan-63a4623b0/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hf857707@gmail.com)
 
 </div>
 
