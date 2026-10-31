@@ -9,7 +9,7 @@
 </div>
 
 ```bash
-┌──(hafsa㉿sec-lab)-[~]
+┌──(hafsa㉿noirbyte)-[~]
 └─$ whoami
 hafsa-khan
 
@@ -66,7 +66,7 @@ NOTE: Tools and technologies I am learning or using in practical projects.
 ### `03 // SELECTED.WORK`
 
 ```bash
-┌──(hafsa㉿sec-lab)-[~/projects]
+┌──(hafsa㉿noirbyte)-[~/projects]
 └─$ ./project-index --show
 ```
 
@@ -125,7 +125,7 @@ Evidence first. Assumptions last.
 <div align="center">
 
 ```bash
-┌──(hafsa㉿sec-lab)-[~]
+┌──(hafsa㉿noirbyte)-[~]
 └─$ git clone curiosity://knowledge/security
 Cloning into better-understanding...
 done.
