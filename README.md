@@ -59,8 +59,15 @@ STATUS : IN PROGRESS
 python/  linux/  powershell/  fastapi/  sqlite/
 wireshark/  nmap/  git/  github/
 
-NOTE: Tools and technologies I am learning or using in practical projects.
-      This is a working toolkit, not a claim of mastery.
+└─$ ls ./security-specialities
+vapt-wapt/  soc-operations/  network-security/
+threat-intelligence/  digital-forensics/  incident-response/
+purple-teaming/  security-research/  service-fingerprinting/
+ai-security/
+
+NOTE: Tools, domains and practical areas I am actively learning,
+      exploring and applying in authorized projects.
+      This is a developing skill set, not a claim of mastery.
 ```
 
 ### `03 // SELECTED.WORK`
