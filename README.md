@@ -8,7 +8,11 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
+```bash
+┌──(hafsa㉿noirbyte)-[~]
+└─$ whoami
+hafsa-khan
+```
 
 ```bash
 $ whoami
@@ -62,7 +66,10 @@ STATUS : IN PROGRESS
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
+```bash
+┌──(hafsa㉿noirbyte)-[~]
+└─$ ls ./working-toolkit
+```
 
 ```bash
 $ ls ./working-toolkit
@@ -87,7 +94,10 @@ NOTE: Tools, domains and practical areas I am actively learning,
 
 ### `03 // SELECTED.WORK`
 
-<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-project-prompt.svg" alt="NOIRBYTE projects terminal prompt" width="470"/>
+```bash
+┌──(hafsa㉿noirbyte)-[~/projects]
+└─$ ./project-index --show
+```
 
 ```bash
 $ ./project-index --show
@@ -146,13 +156,17 @@ Evidence first. Assumptions last.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hafsa-Khan01/Hafsa-Khan01/main/assets/noirbyte-prompt.svg" alt="NOIRBYTE terminal prompt" width="430"/>
-
 ```bash
-$ echo "Learn with curiosity. Investigate with evidence. Build for security."
-```
+┌──(hafsa㉿noirbyte)-[~]
+└─$ ./keep_building.sh --curiosity --precision --purpose
 
-> **Learn with curiosity. Investigate with evidence. Build for security.**
+[+] Curiosity        : ACTIVE
+[+] Critical Thinking: ENABLED
+[+] Security Mindset : ALWAYS_ON
+[+] Mission          : LEARN -> EXPLORE -> SECURE
+
+"Think beyond the code. See beyond the surface. Secure what matters."
+```
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
 
