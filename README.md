@@ -146,19 +146,16 @@ Evidence first. Assumptions last.
 
 ### `05 // CONNECT`
 
-<div align="center">
-
 ```bash
 ┌──(hafsa㉿noirbyte)-[~]
-└─$ tail -n 4 ~/field-notes.log
+└─$ printf "Curious by nature. Precise by practice.\n"
 
-[01] Question assumptions.
-[02] Follow the evidence.
-[03] Understand before exploiting.
-[04] Build to make systems safer.
-
-"Stay curious. Verify deeply. Build responsibly."
+Curious by nature.
+Precise by practice.
+Always building toward a safer digital world.
 ```
+
+<div align="center">
 
 [![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-100b20?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/Hafsa-Khan01?tab=repositories)
 
